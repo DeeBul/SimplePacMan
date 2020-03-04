@@ -1,0 +1,1 @@
+dots.o: dots.cpp

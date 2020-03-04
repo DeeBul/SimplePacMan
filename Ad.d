@@ -1,0 +1,1 @@
+Ad.o: Ad.cpp
